@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"atlascode.jira.statusbar.showUser": false,
+		"files.associations": {
+			"array": "cpp",
+			"chrono": "cpp",
+			"deque": "cpp",
+			"format": "cpp",
+			"forward_list": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"ranges": "cpp",
+			"span": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"algorithm": "cpp",
+			"iterator": "cpp",
+			"xmemory": "cpp",
+			"esp_compiler.h": "c",
+			"random": "cpp",
+			"bitset": "cpp",
+			"xlocale": "cpp",
+			"i2c_bus.h": "c",
+			"es8388.h": "c",
+			"esp_idf_lib_helpers.h": "c",
+			"ads111x.h": "c",
+			"audio_hal.h": "c",
+			"audio_mutex.h": "c",
+			"headphone_detect.h": "c",
+			"audio_volume.h": "c",
+			"board.h": "c",
+			"periph_sdcard.h": "c",
+			"i2cdev.h": "c",
+			"numbers": "cpp",
+			"string": "cpp",
+			"string_view": "cpp"
+		}
+	}
+}
