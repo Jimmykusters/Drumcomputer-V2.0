@@ -12,3 +12,5 @@ Welkom in de Drumcomputer repository. Je vind hier:
     └── plaatjes/
         └── Fotos
 ```
+Als er vragen zijn over het project kun je contact met mij opnemen via Jimmy.kusters@hotmail.com
+Of maak een issue aan in deze repository.
