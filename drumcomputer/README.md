@@ -9,3 +9,5 @@ Vervolgens moet de ESP-ADF geinstalleerd worden.
 https://github.com/espressif/esp-adf
 Als dat allemaal gelukt is moeten er nog wat aanpassingen aan een board definition om het ESP bordje dat gebruikt is te gebruiken.
 https://github.com/Ai-Thinker-Open/ESP32-A1S-AudioKit
+
+Als je de files over gekopieerd hebt zou je het project moeten kunnen builden en uploaden.
